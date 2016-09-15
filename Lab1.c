@@ -20,6 +20,6 @@ int r;
 float a;
 printf("Input the radius of a circle.\n>");
 scanf("%d", &r);
-a = ((r)*(r)*(PI));
-printf("\nThe area of a circle with radius %d is %.3f\n", r, a);
+a = ((2)*(r)*(PI));
+printf("\nThe circumference of a circle with radius %d is %.3f\n", r, a);
 }
