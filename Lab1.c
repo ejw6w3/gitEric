@@ -22,5 +22,5 @@ printf("Input the radius of a circle.\n>");
 scanf("%d", &r);
 a = ((2)*(r)*(PI));
 printf("\nThe circumference of a circle with radius %d is %.3f\n", r, a);
-printf("Sammy is a loser");
+printf("Sammy is big a loser");
 }
